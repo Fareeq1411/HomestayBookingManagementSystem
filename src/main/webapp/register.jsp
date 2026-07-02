@@ -15,25 +15,33 @@
             </div>
             
             <!-- Registration Form -->
-            <form action="RegisterServlet" method="POST">
-                <div class="form-group">
-                    <label>Full Name</label>
-                    <input type="text" name="fullName" class="form-control" placeholder="Enter your full name" required>
-                </div>
-                <div class="form-group">
-                    <label>Phone Number</label>
-                    <input type="tel" name="phone" class="form-control" placeholder="e.g. 0123456789" required>
-                </div>
-                <div class="form-group">
-                    <label>Email Address</label>
-                    <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
-                </div>
-                <div class="form-group">
-                    <label>Password</label>
-                    <input type="password" name="password" class="form-control" placeholder="Create a password" required>
-                </div>
-                <button type="submit" class="btn-primary btn-block">Register</button>
-            </form>
+           <form action="${pageContext.request.contextPath}/auth/register" method="POST">
+
+    <div class="form-group">
+        <label>Full Name</label>
+        <input type="text" name="name" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+        <label>Phone Number</label>
+        <input type="tel" name="phone" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+        <label>Email Address</label>
+        <input type="email" name="email" class="form-control" required>
+    </div>
+
+    <div class="form-group">
+        <label>Password</label>
+        <input type="password" name="password" class="form-control" required>
+    </div>
+
+    <button type="submit" class="btn-primary btn-block">
+        Register
+    </button>
+
+</form>
             
             <div class="auth-footer">
                 <p>Already have an account? <a href="login.jsp">Login here</a></p>

@@ -1,7 +1,9 @@
 package controller;
 
+
 import model.Booking;
-import model.User;
+import model.Guest;
+import model.Staff;
 import java.io.IOException;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
