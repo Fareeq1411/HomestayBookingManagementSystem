@@ -14,7 +14,7 @@
                 <p>Standard Chalet A1</p>
             </div>
             
-            <form action="BookingServlet" method="POST">
+            <form action="/booking/create-booking" method="POST">
                 <!-- Hidden input to pass the unit ID to the database -->
                 <input type="hidden" name="homestayId" value="<%= request.getParameter("id") %>">
                 

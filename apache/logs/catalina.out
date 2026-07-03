@@ -1,0 +1,372 @@
+24-Jun-2026 20:26:28.460 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.23
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 17 2026 21:31:25 UTC
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.23.0
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.6.1
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           24.0.1+9-30
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache
+24-Jun-2026 20:26:28.461 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/conf/logging.properties
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache
+24-Jun-2026 20:26:28.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/temp
+24-Jun-2026 20:26:28.480 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/fareeqshahfitri/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+24-Jun-2026 20:26:28.595 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Jun-2026 20:26:28.611 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [247] milliseconds
+24-Jun-2026 20:26:28.628 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Jun-2026 20:26:28.628 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.23]
+24-Jun-2026 20:26:28.631 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/docs]
+24-Jun-2026 20:26:28.764 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/docs] has finished in [132] ms
+24-Jun-2026 20:26:28.764 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/manager]
+24-Jun-2026 20:26:28.781 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/manager] has finished in [17] ms
+24-Jun-2026 20:26:28.781 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/examples]
+24-Jun-2026 20:26:28.881 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/examples] has finished in [100] ms
+24-Jun-2026 20:26:28.881 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/ROOT]
+24-Jun-2026 20:26:28.891 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/ROOT] has finished in [10] ms
+24-Jun-2026 20:26:28.891 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/host-manager]
+24-Jun-2026 20:26:28.898 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/host-manager] has finished in [7] ms
+24-Jun-2026 20:26:28.900 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Jun-2026 20:26:28.905 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [292] milliseconds
+24-Jun-2026 20:27:58.929 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/homestay.war]
+24-Jun-2026 20:27:58.992 INFO [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jun-2026 20:27:58.993 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/homestay.war] has finished in [64] ms
+24-Jun-2026 20:28:09.215 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+24-Jun-2026 20:28:09.216 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+24-Jun-2026 20:28:09.218 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+24-Jun-2026 20:28:09.228 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+24-Jun-2026 20:28:09.231 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+24-Jun-2026 20:28:14.163 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.23
+24-Jun-2026 20:28:14.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 17 2026 21:31:25 UTC
+24-Jun-2026 20:28:14.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.23.0
+24-Jun-2026 20:28:14.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+24-Jun-2026 20:28:14.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.6.1
+24-Jun-2026 20:28:14.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Jun-2026 20:28:14.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home
+24-Jun-2026 20:28:14.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           24.0.1+9-30
+24-Jun-2026 20:28:14.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+24-Jun-2026 20:28:14.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache
+24-Jun-2026 20:28:14.165 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache
+24-Jun-2026 20:28:14.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/conf/logging.properties
+24-Jun-2026 20:28:14.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache
+24-Jun-2026 20:28:14.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/temp
+24-Jun-2026 20:28:14.174 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/fareeqshahfitri/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+24-Jun-2026 20:28:14.280 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Jun-2026 20:28:14.292 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [205] milliseconds
+24-Jun-2026 20:28:14.306 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Jun-2026 20:28:14.306 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.23]
+24-Jun-2026 20:28:14.314 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/homestay.war]
+24-Jun-2026 20:28:14.436 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jun-2026 20:28:14.452 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/homestay.war] has finished in [137] ms
+24-Jun-2026 20:28:14.452 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/docs]
+24-Jun-2026 20:28:14.463 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/docs] has finished in [11] ms
+24-Jun-2026 20:28:14.463 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/manager]
+24-Jun-2026 20:28:14.475 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/manager] has finished in [12] ms
+24-Jun-2026 20:28:14.476 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/examples]
+24-Jun-2026 20:28:14.559 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/examples] has finished in [83] ms
+24-Jun-2026 20:28:14.559 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/ROOT]
+24-Jun-2026 20:28:14.565 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/ROOT] has finished in [6] ms
+24-Jun-2026 20:28:14.565 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/host-manager]
+24-Jun-2026 20:28:14.573 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/host-manager] has finished in [8] ms
+24-Jun-2026 20:28:14.574 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Jun-2026 20:28:14.580 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [287] milliseconds
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:database.db
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:638)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:222)
+	at dao.DBConn.connDB(DBConn.java:8)
+	at dao.UserRepo.checkLogin(UserRepo.java:13)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+	at dao.UserRepo.checkLogin(UserRepo.java:16)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:database.db
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:638)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:222)
+	at dao.DBConn.connDB(DBConn.java:8)
+	at dao.UserRepo.checkLogin(UserRepo.java:13)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+	at dao.UserRepo.checkLogin(UserRepo.java:16)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:database.db
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:638)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:222)
+	at dao.DBConn.connDB(DBConn.java:8)
+	at dao.UserRepo.checkLogin(UserRepo.java:13)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+	at dao.UserRepo.checkLogin(UserRepo.java:16)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+24-Jun-2026 20:43:04.963 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/homestay]
+24-Jun-2026 20:43:04.990 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/homestay.war]
+24-Jun-2026 20:43:05.078 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jun-2026 20:43:05.080 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/homestay.war] has finished in [90] ms
+24-Jun-2026 20:44:15.122 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/homestay]
+24-Jun-2026 20:44:15.131 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/homestay.war]
+24-Jun-2026 20:44:15.185 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jun-2026 20:44:15.186 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/fareeqshahfitri/Desktop/Self_Project/alyasystem/apache/webapps/homestay.war] has finished in [55] ms
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:database.db
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:638)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:222)
+	at dao.DBConn.connDB(DBConn.java:8)
+	at dao.UserRepo.checkLogin(UserRepo.java:13)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+	at dao.UserRepo.checkLogin(UserRepo.java:16)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+java.sql.SQLException: No suitable driver found for jdbc:sqlite:database.db
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:638)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:222)
+	at dao.DBConn.connDB(DBConn.java:8)
+	at dao.UserRepo.checkLogin(UserRepo.java:13)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "conn" is null
+	at dao.UserRepo.checkLogin(UserRepo.java:16)
+	at controller.LoginServlet.doPost(LoginServlet.java:38)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:132)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:59)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:534)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:782)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+03-Jul-2026 14:52:27.636 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Jul-2026 14:52:27.671 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+03-Jul-2026 14:52:27.748 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Jul-2026 14:52:27.789 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
